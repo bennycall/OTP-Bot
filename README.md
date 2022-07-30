@@ -14,7 +14,8 @@
 
 ### Note
 - If you have any problem u can contact me
-- Not for sell only  for personal use...You can remake it
+- Not for sell only  for personal use.
+- Not For Skidderss
 - Only for Base/Example and then make your own otp bot
 - Only work for Twilio
 - Need Verified Twilio Acc to work
